@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+article {
+  padding: 12px, 0;
+  margin-top: 40px;
+}
+
+input[type="text"] {
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  display: block;
+  margin: 8px 0;
+  margin: auto;
+  padding: 12px 20px;
+  width: 80%;
+}
